@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EliteEFC1 | Rasmiy sahifa</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: white;
+      text-align: center;
+    }
+
+    h1 {
+      margin-top: 20px;
+      font-size: 28px;
+    }
+
+    h2 {
+      margin-top: 30px;
+      font-size: 22px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+      padding: 15px;
+    }
+
+    .btn {
+      display: block;
+      width: 90%;
+      max-width: 400px;
+      margin: 10px auto;
+      padding: 14px;
+      background: #2563eb;
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 10px;
+    }
+
+    .btn:hover {
+      background: #1e40af;
+    }
+
+    iframe {
+      border-radius: 12px;
+      margin-top: 15px;
+    }
+
+    footer {
+      margin: 30px 0;
+      font-size: 14px;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>🔥 EliteEFC1</h1>
+    <p>FC Mobile • YouTube • Telegram • Instagram</p>
+
+    <!-- TELEGRAM ASOSIY -->
+    <a class="btn" href="https://t.me/eliteefc1" target="_blank">
+      📢 Telegram kanal
+    </a>
+
+    <!-- TELEGRAM SAVDO -->
+    <a class="btn" href="https://t.me/eliteefc1" target="_blank">
+      💰 FC Mobile Savdo
+    </a>
+
+    <!-- INSTAGRAM -->
+    <a class="btn" href="https://www.instagram.com/elitepackfc" target="_blank">
+      📸 Instagram
+    </a>
+
+    <!-- YOUTUBE -->
+    <h2>▶️ YouTube videolar</h2>
+
+    <!-- AVTOMATIK: KANALGA VIDEO QO‘SHSANG – SAYTDA O‘ZI CHIQADI -->
+    <iframe
+      width="95%"
+      height="315"
+      src="https://www.youtube.com/embed?listType=user_uploads&list=UCgTVV0jZc9cwDW4oe6b2gQA"
+      title="EliteEFC1 YouTube"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+
+    <footer>
+      © 2026 EliteEFC1 — Barcha huquqlar himoyalangan
+    </footer>
+
+  </div>
+
+</body>
+</html>
