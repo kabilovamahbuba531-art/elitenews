@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Elite Network | Rasmiy sahifa</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #020617, #0f172a);
+      color: white;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 950px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .card {
+      background: #020617;
+      border-radius: 18px;
+      padding: 25px;
+      box-shadow: 0 0 30px rgba(37, 99, 235, 0.25);
+    }
+
+    h1 {
+      font-size: 30px;
+      margin-bottom: 5px;
+    }
+
+    p {
+      color: #cbd5f5;
+      margin-bottom: 25px;
+    }
+
+    h2 {
+      margin-top: 35px;
+      font-size: 22px;
+      color: #60a5fa;
+    }
+
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      width: 95%;
+      max-width: 450px;
+      margin: 12px auto;
+      padding: 15px;
+      background: linear-gradient(135deg, #2563eb, #1e40af);
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 14px;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 18px #2563eb;
+    }
+
+    footer {
+      margin-top: 35px;
+      font-size: 14px;
+      color: #94a3b8;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="card">
+
+      <h1>🔥 Elite Network</h1>
+      <p>Telegram • YouTube • Gaming • Dublyaj</p>
+
+      <!-- TELEGRAM -->
+      <h2>📢 Telegram kanallar</h2>
+
+      <a class="btn" href="https://t.me/eliteefc1" target="_blank">
+        🔵 EliteEFC1 — Asosiy kanal
+      </a>
+
+      <a class="btn" href="https://t.me/Pdublajuz" target="_blank">
+        🎙 P.DUBLAJ — Dublyaj kanal
+      </a>
+
+      <!-- YOUTUBE -->
+      <h2>▶️ YouTube kanallar</h2>
+
+      <a class="btn" href="https://www.youtube.com/@Eliteefc1" target="_blank">
+        ✂️ EliteEFC1 — Edits kanal
+      </a>
+
+      <a class="btn" href="https://www.youtube.com/@P.DUBLAJ" target="_blank">
+        🎧 P.DUBLAJ — Dublyaj kanal
+      </a>
+
+      <a class="btn" href="https://www.youtube.com/@EliteABUfc" target="_blank">
+        🎮 EliteABUfc — FC Gaming kanal
+      </a>
+
+      <a class="btn" href="https://www.youtube.com/@ABU12MINE" target="_blank">
+        ⛏ ABU12MINE — Mine kanal
+      </a>
+
+      <footer>
+        © 2026 Elite Network — Barcha huquqlar himoyalangan
+      </footer>
+
+    </div>
+  </div>
+
+</body>
+</html>
