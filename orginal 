@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abubakr - Links</title>
+    <style>
+        body { margin: 0; padding: 0; font-family: sans-serif; background-color: #121212; color: #ffffff; display: flex; justify-content: center; min-height: 100vh; }
+        .container { width: 90%; max-width: 450px; padding: 20px; text-align: center; }
+        .profile { margin: 30px 0; }
+        .avatar { font-size: 50px; }
+        .name { font-size: 24px; font-weight: bold; }
+        .username { color: #888; margin-top: 5px; }
+        
+        .section-title { text-align: left; font-size: 18px; margin: 20px 0 10px; font-weight: bold; color: #007bff; }
+        
+        .link-btn { display: block; background-color: #1e1e1e; color: white; padding: 18px; margin-bottom: 12px; border-radius: 12px; text-decoration: none; border: 1px solid #333; transition: 0.3s; }
+        .link-btn:hover { background-color: #2a2a2a; }
+        
+        .info-box { background-color: #1e1e1e; padding: 15px; border-radius: 12px; border: 1px solid #333; margin-bottom: 12px; text-align: center; }
+        .card-title { font-size: 16px; font-weight: bold; margin-bottom: 5px; display: block; }
+        
+        .footer { margin-top: 40px; color: #555; font-size: 14px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="profile">
+        <div class="avatar">😎</div>
+        <div class="name">Abubakr</div>
+        <div class="username">abushGANG</div>
+    </div>
+
+    <!-- Asosiy menyu -->
+    <div class="section-title">Mening Ssilkalarim</div>
+    <a href="https://t.me/+nu5_5Apzvgo4YWRi" class="link-btn">Telegram Kanal ↩️</a>
+    <a href="https://t.me/abushGANGfc?direct" class="link-btn">Telegram Maxfiy Xabar ↩️</a>
+    <a href="https://www.youtube.com/@fc_ABUgang" class="link-btn">Youtube Kanal ↩️</a>
+
+    <div class="section-title">Ma'lumotlar</div>
+    <div class="info-box">
+        <strong>FC MOBILE 🆔</strong><br>
+        931828074733023233
+    </div>
+    <a href="https://t.me/xurshid_vic" class="link-btn">O'zim haqimda 😎</a>
+    <a href="https://www.instagram.com/xurshid_vic?igsh=MXY4NXVqYnp3MGV3Mg==" class="link-btn">Instagram story 🌐</a>
+
+    <!-- Donat bo'limi -->
+    <div class="section-title" id="donat">Donat uchun 💸</div>
+    
+    <div class="info-box">
+        <span class="card-title">💳 UZCARD</span>
+        5614 6818 1637 0153<br>
+        <small>K-M</small>
+    </div>
+
+    <div class="info-box">
+        <span class="card-title">💳 HUMO</span>
+        9860 6004 1718 0947<br>
+        <small>K-M</small>
+    </div>
+
+    <div class="footer">Acode orqali yaratildi © Abubakr</div>
+</div>
+
+</body>
+</html>
